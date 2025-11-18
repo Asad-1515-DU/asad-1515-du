@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md. Asad Al Mahmud</h1>
-- 🌱 I’m currently learning Full-Stack Development
+<h3 align="center">Undergraduate Software Engineering Student at IIT, University of Dhaka</h3>
+
+- 🌱 I’m currently learning **Full-Stack Development**
 
 - 📫 Reach me **bsse1515@iit.du.ac.bd**
 
