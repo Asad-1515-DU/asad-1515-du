@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md. Asad Al Mahmud</h1>
-- 🌱 I’m currently learning **learning Full-Stack Development**
+- 🌱 I’m currently learning Full-Stack Development
 
-- 📫 How to reach me **bsse1515@iit.du.ac.bd**
+- 📫 Reach me **bsse1515@iit.du.ac.bd**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
